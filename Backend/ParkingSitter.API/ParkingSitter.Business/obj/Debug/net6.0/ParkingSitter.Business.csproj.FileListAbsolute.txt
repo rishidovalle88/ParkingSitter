@@ -1,0 +1,17 @@
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\obj\Debug\net6.0\ParkingSitter.Business.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\obj\Debug\net6.0\ParkingSitter.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\obj\Debug\net6.0\ParkingSitter.Business.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\obj\Debug\net6.0\ParkingSitter.Business.AssemblyInfo.cs
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\obj\Debug\net6.0\ParkingSitter.Business.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\bin\Debug\net6.0\ParkingSitter.Business.deps.json
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\bin\Debug\net6.0\ParkingSitter.Business.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\bin\Debug\net6.0\ref\ParkingSitter.Business.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\bin\Debug\net6.0\ParkingSitter.Business.pdb
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\bin\Debug\net6.0\ParkingSitter.Database.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\bin\Debug\net6.0\ParkingSitter.Domain.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\bin\Debug\net6.0\ParkingSitter.Database.pdb
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\bin\Debug\net6.0\ParkingSitter.Domain.pdb
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\obj\Debug\net6.0\ParkingSitter.Business.csproj.CopyComplete
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\obj\Debug\net6.0\ParkingSitter.Business.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\obj\Debug\net6.0\ref\ParkingSitter.Business.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Business\obj\Debug\net6.0\ParkingSitter.Business.pdb

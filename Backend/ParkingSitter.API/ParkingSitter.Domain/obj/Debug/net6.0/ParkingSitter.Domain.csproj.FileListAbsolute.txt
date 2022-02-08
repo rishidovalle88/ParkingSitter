@@ -1,0 +1,12 @@
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\bin\Debug\net6.0\ParkingSitter.Domain.deps.json
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\bin\Debug\net6.0\ParkingSitter.Domain.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\bin\Debug\net6.0\ref\ParkingSitter.Domain.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\bin\Debug\net6.0\ParkingSitter.Domain.pdb
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\obj\Debug\net6.0\ParkingSitter.Domain.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\obj\Debug\net6.0\ParkingSitter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\obj\Debug\net6.0\ParkingSitter.Domain.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\obj\Debug\net6.0\ParkingSitter.Domain.AssemblyInfo.cs
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\obj\Debug\net6.0\ParkingSitter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\obj\Debug\net6.0\ParkingSitter.Domain.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\obj\Debug\net6.0\ref\ParkingSitter.Domain.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Domain\obj\Debug\net6.0\ParkingSitter.Domain.pdb

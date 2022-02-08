@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8e7cf79-61e1-4e1e-93a2-b4be602e0e5e": {
+      "ProjectGuid": "f8e7cf79-61e1-4e1e-93a2-b4be602e0e5e",
+      "DisplayName": "ParkingSitter.API",
+      "ColorIndex": 0
+    },
+    "eb79d027-95d4-4998-97e8-37e407a2539a": {
+      "ProjectGuid": "eb79d027-95d4-4998-97e8-37e407a2539a",
+      "DisplayName": "ParkingSitter.Domain",
+      "ColorIndex": 1
+    },
+    "c89c661e-566b-4455-9e53-2e689b9538ab": {
+      "ProjectGuid": "c89c661e-566b-4455-9e53-2e689b9538ab",
+      "DisplayName": "ParkingSitter.Database",
+      "ColorIndex": 2
+    },
+    "8ed71d7b-2b49-4d24-ad81-c0ee36350d6f": {
+      "ProjectGuid": "8ed71d7b-2b49-4d24-ad81-c0ee36350d6f",
+      "DisplayName": "ParkingSitter.Business",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,15 @@
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\bin\Debug\net6.0\ParkingSitter.Database.deps.json
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\bin\Debug\net6.0\ParkingSitter.Database.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\bin\Debug\net6.0\ref\ParkingSitter.Database.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\bin\Debug\net6.0\ParkingSitter.Database.pdb
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\bin\Debug\net6.0\ParkingSitter.Domain.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\bin\Debug\net6.0\ParkingSitter.Domain.pdb
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.csproj.AssemblyReference.cache
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.AssemblyInfo.cs
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.csproj.CopyComplete
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ref\ParkingSitter.Database.dll
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.pdb
