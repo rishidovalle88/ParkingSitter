@@ -15,7 +15,7 @@ public class Parkings : BaseEntity
     public string? Phone { get; set; }
 
     public int UserForeignKey { get; set; }
-    public Users? Users { get; set; }
+    public List<Users>? Users { get; set; }
     public List<Transactions>? Transactions { get; set; }
 }
 
@@ -25,12 +25,11 @@ public class ParkingsMap : IEntityTypeConfiguration<Parkings>
     public void Configure(EntityTypeBuilder<Parkings> builder)
     {
         builder
-            .HasOne(p => p.Users)
-            .WithMany(b => b.Parkings)
-            .HasForeignKey(p => p.UserForeignKey);
+            .HasMany(p => p.Users)
+            .WithMany(b => b.Parkings);
 
         builder
-            .HasMany(b => b.Transactions);
-
+            .HasMany(b => b.Transactions)
+            .WithOne(b => b.Parkings);
     }
 }

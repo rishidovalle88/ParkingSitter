@@ -5,7 +5,7 @@ namespace ParkingSitter.Database.Context;
 
 public  class AppDbContext : DbContext
 {
-    public AppDbContext(DbContextOptions options) : base(options)
+    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
     {}
 
     public DbSet<Users> Users { get; set; }

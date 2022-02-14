@@ -13,3 +13,5 @@ C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitte
 C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.dll
 C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ref\ParkingSitter.Database.dll
 C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.pdb
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\bin\Debug\net6.0\ParkingSitter.Database.runtimeconfig.json
+C:\Users\rishi\source\repos\ParkingSitter\Backend\ParkingSitter.API\ParkingSitter.Database\obj\Debug\net6.0\ParkingSitter.Database.genruntimeconfig.cache

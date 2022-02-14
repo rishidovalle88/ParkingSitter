@@ -19,7 +19,9 @@ public class UsersMap : IEntityTypeConfiguration<Users>
 {
     public void Configure(EntityTypeBuilder<Users> builder)
     {
-        builder.HasMany(p => p.Parkings);
+        builder
+            .HasMany(p => p.Parkings)
+            .WithMany(p => p.Users);
     }
 }
 

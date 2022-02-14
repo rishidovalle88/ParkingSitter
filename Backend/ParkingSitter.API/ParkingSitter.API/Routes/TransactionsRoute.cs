@@ -7,7 +7,7 @@ public static class TransactionsRoute
 {    
     public static void ConfigureTransactionsRoutes(this WebApplication app)
     {
-        app.MapGet("/transacao", Get);
+        app.MapGet("/transacao", Get).RequireAuthorization();
         app.MapGet("/transacao/{id}", GetById);
         app.MapPost("/transacao", Insert);
         app.MapPut("/transacao", Update);
@@ -15,9 +15,9 @@ public static class TransactionsRoute
     }
 
     private static async Task<IResult> Get(
-        [FromQuery(Name = "take")] int take,
-        [FromQuery(Name = "skip")] int skip,
-        [FromServices] ITransactionsBusiness i)
+            [FromServices] ITransactionsBusiness i,
+            [FromQuery(Name = "take")] int take = 10,
+            [FromQuery(Name = "skip")] int skip = 1)
     {
         try
         {

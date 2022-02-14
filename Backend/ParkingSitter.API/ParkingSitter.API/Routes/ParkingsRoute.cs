@@ -7,19 +7,21 @@ public static class ParkingsRoutes
 {
     public static void ConfigureParkingsRoutes(this WebApplication app)
     {
-        app.MapGet("/estacionamento", Get);
+        app.MapGet("/estacionamento", Get).RequireAuthorization();
         app.MapGet("/estacionamento/{id}", GetById);
         app.MapPost("/estacionamento", Insert);
         app.MapPut("/estacionamento", Update);
         app.MapDelete("/estacionamento/{id}", Delete);
     }
 
-    private static async Task<IResult> Get([FromServices] HttpContext httpContext, [FromServices] IParkingsBusiness i)
+    private static async Task<IResult> Get(
+            [FromServices] IParkingsBusiness i,
+            [FromQuery(Name = "take")] int take = 10,
+            [FromQuery(Name = "skip")] int skip = 1
+        )
     {
         try
         {
-            int.TryParse(httpContext.Request.Query["take"], out var take);
-            int.TryParse(httpContext.Request.Query["skip"], out var skip);
             return Results.Ok(await i.GetAll(take, skip));
         }
         catch (Exception ex)
